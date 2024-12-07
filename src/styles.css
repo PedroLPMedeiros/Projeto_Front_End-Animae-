@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+.cabecalho {
+  background-color: rgba(134, 28, 234, 0.875) ;
+}
+
+
+.anton-sc-regular {
+    font-family: "Anton SC", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: xx-large;
+  }
+
+.image {
+  object-position: center;
+}
+
+
+.cardsanimae {
+  position: relative;
+}
+
+.estoque{
+  position: relative;
+  top: 10px;
+
+}
