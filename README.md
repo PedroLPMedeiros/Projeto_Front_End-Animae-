@@ -12,3 +12,5 @@ Explicação dos requisitos para execução do Projeto:
   Foram utlizados diferentes tipos de componentes para criar essas funcionalidades, assim como pequenos atributos de CSS para customizações específicas e majoritariamente havendo a utilização de Bootstrap v5.3 para estilização do site.
 
   Typescript foi a linguagem utilizada, com funções como Input, Output, if, else, for, Interpolação, Property Biding e Event Biding.
+
+  Link do vídeo: https://drive.google.com/file/d/17W7I9GArZVVejJY85onwbKQW9IZCJ-w7/view?usp=sharing
