@@ -1,59 +1,14 @@
-# HermesEcomm
+Integrantes do Projeto:
+  Iara Elise e Pedro Lucas
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
+Objetivos do Site:
+  O Animae! é um site de venda de produtos de anime e da cultura Geek em geral voltado à consumidores que desfrutam desses elementos da cultura pop.
 
-## Development server
+Explicação dos requisitos para execução do Projeto:
+  Para a criação do projeto foram utilizados diferentes componentes para compôr o Header, Body e Footer do site. Para o header foram utilizados botões de navegação para voltar à home e ir até às compras feitas. No Body do site estão cards com os produtos, sua descrição, preço e opção de botão para compra.
 
-To start a local development server, run:
+  Já no footer, foram adicionados links simples para a home, compras, localização da loja física e contato. 
 
-```bash
-ng serve
-```
+  Foram utlizados diferentes tipos de componentes para criar essas funcionalidades, assim como pequenos atributos de CSS para customizações específicas e majoritariamente havendo a utilização de Bootstrap v5.3 para estilização do site.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+  Typescript foi a linguagem utilizada, com funções como Input, Output, if, else, for, Interpolação, Property Biding e Event Biding.

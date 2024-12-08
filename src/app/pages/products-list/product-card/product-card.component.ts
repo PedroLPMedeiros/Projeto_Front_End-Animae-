@@ -7,21 +7,21 @@ import { SacolaService } from '../../../services/sacola.service';
   selector: 'app-product-card',
   imports: [PrimaryButtonComponent],
   template: `
-      <div class="cardsanimae card bg-white shadow border rounded-1 p-5 mb-5">
+      <div class="cardsanimae container h-100 card bg-white shadow border rounded-1 p-5 mb-5">
         <img class="img-fluid shadow" [src]="product().image">
 
         <div class="card-body mt-2">
           <span class="text-md h6">
             {{product().name}}
           </span>
-          <span>
+          <span class="d-block">
             {{'R$' + product().price + ',00'}}
           </span>
           <app-primary-button
           label="Comprar" (btnClicked)="sacolaService.addToSacola(product())"/>
         </div>
 
-        <span class="estoque bg-" [class]="product().stock ? 'bg-success-subtle rounded text-success' : 'bg-danger-subtle rounded text-danger'">
+        <span class="estoque" [class]="product().stock ? 'bg-success-subtle rounded text-success' : 'bg-danger-subtle rounded text-danger'">
           @if (product().stock) {
             {{product().stock}} em estoque
           } @else {

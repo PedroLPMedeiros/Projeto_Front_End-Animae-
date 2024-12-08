@@ -59,7 +59,7 @@ export class ProductsListComponent {
       {
         id: 6,
         name: 'Action Figure - Angel Beats',
-        image: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRXe5TRwaicU8bbqoGWVkLVFcOCzn962vyEPMU1JLY_PMedGljlWbQ24AIRrqIrWOLgndqge5IOGsjROlloDZj1wZgz5k65Sj6XxHYpROF4AHmpasiPq0-Y&usqp=CAE',
+        image: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmvYd7gKgKb93ydhMtFCnMgT22wZ9kkCl7NqvP8nA2QFzCPkGPKJ7tbHRF4Zub47DGBqar4M1G6_v7gH_fEG3MvjdfnDOId2qYhqlkhFar&usqp=CAE',
         price: 400.00,
         stock: 0,
       },
@@ -72,9 +72,9 @@ export class ProductsListComponent {
       },
       {
         id: 8,
-        name: 'Caixa misteriosa - Naruto',
+        name: 'Action Figure - Naruto',
         image: 'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTaqr03lXKix857yOLDLyDHLEa3YkgZ-oSPhI0VwtbkTZF9KFcgtkuvbYfRJs9ees-OvieM2mV_38udFgrF24bcsfIIhntBhC1TDeDnGVOPXO0U88PcSJBa&usqp=CAE',
-        price: 40.00,
+        price: 100.00,
         stock: 8,
       },
     ]);
