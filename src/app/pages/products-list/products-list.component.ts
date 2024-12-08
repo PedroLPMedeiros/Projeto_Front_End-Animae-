@@ -45,7 +45,7 @@ export class ProductsListComponent {
       {
         id: 4,
         name: 'Caixinha de música - Anohana',
-        image: 'https://www.google.com/url?url=https://produto.mercadolivre.com.br/MLB-4931221882-dvd-anime-orange-serie-completa-dublada-filme-_JM%3Fmatt_tool%3D18956390%26utm_source%3Dgoogle_shopping%26utm_medium%3Dorganic&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiZ2d_br5aKAxVEhJUCHRQYHUsQ1SkI3AcoAA&usg=AOvVaw0648a1E1dGEJO7rCE1BVJi',
+        image: 'https://ae01.alicdn.com/kf/S86aceeac8fa849508ca734713c121779L/Caixa-De-M-sica-De-Madeira-Retangular-Anime-Anohana-A-Flor-Que-Vimos-Naquele-Dia-Preto.jpg',
         price: 40.00,
         stock: 30,
       },
@@ -59,8 +59,8 @@ export class ProductsListComponent {
       {
         id: 6,
         name: 'Action Figure - Angel Beats',
-        image: 'https://www.google.com/url?url=https://actionfigurebrasil.com.br/products/angel-beats-nendoroid-petit-set-2%25E3%2585%25A4%3Fvariant%3D48715012276520%26country%3DBR%26currency%3DBRL%26utm_medium%3Dproduct_sync%26utm_source%3Dgoogle%26utm_content%3Dsag_organic%26utm_campaign%3Dsag_organic%26srsltid%3DAfmBOoqTnyz1diLRNKL2_EUiUnFpQNQgVAdaPP3S1aumUQHxAJYW71vq7gM&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwi8pcbVsJaKAxXUrpUCHYg1NAUQ1SkI8wkoAA&usg=AOvVaw2qE9K2flYNz3YyaDy-DRKt',
-        price: 40.00,
+        image: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRXe5TRwaicU8bbqoGWVkLVFcOCzn962vyEPMU1JLY_PMedGljlWbQ24AIRrqIrWOLgndqge5IOGsjROlloDZj1wZgz5k65Sj6XxHYpROF4AHmpasiPq0-Y&usqp=CAE',
+        price: 400.00,
         stock: 0,
       },
       {

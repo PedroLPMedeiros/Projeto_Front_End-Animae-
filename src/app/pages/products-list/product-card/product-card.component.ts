@@ -29,6 +29,7 @@ import { SacolaService } from '../../../services/sacola.service';
           }
         </span>
       </div>
+
  `,
   styles: ``
 })
